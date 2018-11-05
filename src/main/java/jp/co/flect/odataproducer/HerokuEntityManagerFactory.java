@@ -1,3 +1,4 @@
+//test
 package jp.co.flect.odataproducer;
 
 import javax.persistence.Persistence;
